@@ -1,4 +1,4 @@
-package com.ari.springcassandrademo;
+package com.ari.springcassandrademo.controller;
 
 import com.ari.springcassandrademo.dto.ProductDTO;
 import com.ari.springcassandrademo.model.Product;
